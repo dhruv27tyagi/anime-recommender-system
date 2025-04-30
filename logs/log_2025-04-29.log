@@ -1,0 +1,199 @@
+2025-04-29 14:02:17,516 - INFO - DataProcessing Initialized
+2025-04-29 14:02:18,358 - INFO - Data Loaded successfully for data processinh
+2025-04-29 14:02:18,517 - INFO - Filtered users succesfully
+2025-04-29 14:02:19,496 - INFO - Scaling donefor Processing
+2025-04-29 14:02:19,671 - INFO - Encoding done for users and anime
+2025-04-29 14:02:20,242 - ERROR - Error in C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\src\data_processing.py , line 80 : Failed to split data
+2025-04-29 14:04:44,945 - INFO - DataProcessing Initialized
+2025-04-29 14:04:45,650 - INFO - Data Loaded successfully for data processinh
+2025-04-29 14:04:45,773 - INFO - Filtered users succesfully
+2025-04-29 14:04:46,689 - INFO - Scaling donefor Processing
+2025-04-29 14:04:46,830 - INFO - Encoding done for users and anime
+2025-04-29 14:05:49,859 - INFO - DataProcessing Initialized
+2025-04-29 14:05:50,584 - INFO - Data Loaded successfully for data processinh
+2025-04-29 14:05:50,711 - INFO - Filtered users succesfully
+2025-04-29 14:05:51,671 - INFO - Scaling donefor Processing
+2025-04-29 14:05:51,820 - INFO - Encoding done for users and anime
+2025-04-29 14:05:52,141 - ERROR - Error in C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\src\data_processing.py , line 80 : Failed to split data
+2025-04-29 14:11:57,386 - INFO - DataProcessing Initialized
+2025-04-29 14:11:58,116 - INFO - Data Loaded successfully for data processinh
+2025-04-29 14:11:58,243 - INFO - Filtered users succesfully
+2025-04-29 14:11:59,214 - INFO - Scaling donefor Processing
+2025-04-29 14:11:59,334 - INFO - Encoding done for users and anime
+2025-04-29 14:11:59,770 - INFO - Data Splitted succesfully
+2025-04-29 14:11:59,784 - INFO - user2user_encoded saved succesfully in processed directory
+2025-04-29 14:11:59,799 - INFO - user2user_decoded saved succesfully in processed directory
+2025-04-29 14:11:59,856 - INFO - anime2anime_encoded saved succesfully in processed directory
+2025-04-29 14:11:59,910 - INFO - anime2animedecoded saved succesfully in processed directory
+2025-04-29 14:12:03,984 - INFO - All training, testing data as well as rating_df is saved.....
+2025-04-29 14:12:10,051 - INFO - DF and Synopsis_df saved succesfully
+2025-04-29 14:12:10,054 - INFO - Data Processing Pipeline ran succesfully
+2025-04-29 20:09:40,644 - INFO - Model Training Initialized
+2025-04-29 20:09:40,697 - INFO - Data loaded succesfully for Model Training
+2025-04-29 20:09:40,746 - INFO - Successfully read the yaml file
+2025-04-29 20:09:40,746 - INFO - Loaded configuration from config.yaml
+2025-04-29 20:09:40,867 - WARNING - From C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\venv\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-04-29 20:09:41,021 - WARNING - From C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\venv\lib\site-packages\keras\src\optimizers\__init__.py:309: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2025-04-29 20:09:41,030 - INFO - Model created succesfully.....
+2025-04-29 20:17:33,285 - INFO - Model Training Initialized
+2025-04-29 20:17:33,318 - INFO - Data loaded succesfully for Model Training
+2025-04-29 20:17:33,354 - INFO - Successfully read the yaml file
+2025-04-29 20:17:33,354 - INFO - Loaded configuration from config.yaml
+2025-04-29 20:17:33,473 - WARNING - From C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\venv\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-04-29 20:17:33,582 - WARNING - From C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\venv\lib\site-packages\keras\src\optimizers\__init__.py:309: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2025-04-29 20:17:33,592 - INFO - Model created succesfully.....
+2025-04-29 20:19:06,622 - INFO - Model Training Initialized
+2025-04-29 20:19:06,647 - INFO - X_train_array types: <class 'list'>
+2025-04-29 20:19:06,647 - INFO - X_train_array shapes: [(1000,), (1000,)]
+2025-04-29 20:19:06,647 - INFO - y_train shape: (3245641,)
+2025-04-29 20:19:06,647 - INFO - Data loaded succesfully for Model Training
+2025-04-29 20:19:06,682 - INFO - Successfully read the yaml file
+2025-04-29 20:19:06,683 - INFO - Loaded configuration from config.yaml
+2025-04-29 20:19:06,790 - WARNING - From C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\venv\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-04-29 20:19:06,919 - WARNING - From C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\venv\lib\site-packages\keras\src\optimizers\__init__.py:309: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2025-04-29 20:19:06,928 - INFO - Model created succesfully.....
+2025-04-29 20:39:17,385 - INFO - DataProcessing Initialized
+2025-04-29 20:39:18,181 - INFO - Data Loaded successfully for data processinh
+2025-04-29 20:39:18,341 - INFO - Filtered users succesfully
+2025-04-29 20:39:19,362 - INFO - Scaling donefor Processing
+2025-04-29 20:39:19,500 - INFO - Encoding done for users and anime
+2025-04-29 20:39:20,084 - INFO - Data Splitted succesfully
+2025-04-29 20:39:20,098 - INFO - user2user_encoded saved succesfully in processed directory
+2025-04-29 20:39:20,112 - INFO - user2user_decoded saved succesfully in processed directory
+2025-04-29 20:39:20,165 - INFO - anime2anime_encoded saved succesfully in processed directory
+2025-04-29 20:39:20,220 - INFO - anime2animedecoded saved succesfully in processed directory
+2025-04-29 20:39:24,183 - INFO - All training, testing data as well as rating_df is saved.....
+2025-04-29 20:39:30,701 - INFO - DF and Synopsis_df saved succesfully
+2025-04-29 20:39:30,704 - INFO - Data Processing Pipeline ran succesfully
+2025-04-29 20:39:41,984 - INFO - Model Training Initialized
+2025-04-29 20:39:42,050 - INFO - Data loaded succesfully for Model Training
+2025-04-29 20:39:42,105 - INFO - Successfully read the yaml file
+2025-04-29 20:39:42,105 - INFO - Loaded configuration from config.yaml
+2025-04-29 20:39:42,227 - WARNING - From C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\venv\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-04-29 20:39:42,356 - WARNING - From C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\venv\lib\site-packages\keras\src\optimizers\__init__.py:309: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2025-04-29 20:39:42,368 - INFO - Model created succesfully.....
+2025-04-29 20:39:42,387 - ERROR - Error in C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\src\model_training.py , line 72 : Model training failed
+2025-04-29 20:41:43,129 - INFO - DataProcessing Initialized
+2025-04-29 20:41:43,908 - INFO - Data Loaded successfully for data processinh
+2025-04-29 20:41:44,050 - INFO - Filtered users succesfully
+2025-04-29 20:41:45,016 - INFO - Scaling donefor Processing
+2025-04-29 20:41:45,154 - INFO - Encoding done for users and anime
+2025-04-29 20:41:45,842 - INFO - Data Splitted succesfully
+2025-04-29 20:41:45,858 - INFO - user2user_encoded saved succesfully in processed directory
+2025-04-29 20:41:45,872 - INFO - user2user_decoded saved succesfully in processed directory
+2025-04-29 20:41:45,930 - INFO - anime2anime_encoded saved succesfully in processed directory
+2025-04-29 20:41:45,989 - INFO - anime2animedecoded saved succesfully in processed directory
+2025-04-29 20:41:49,887 - INFO - All training, testing data as well as rating_df is saved.....
+2025-04-29 20:41:55,961 - INFO - DF and Synopsis_df saved succesfully
+2025-04-29 20:41:55,964 - INFO - Data Processing Pipeline ran succesfully
+2025-04-29 20:42:20,647 - INFO - Model Training Initialized
+2025-04-29 20:42:20,685 - INFO - Data loaded succesfully for Model Training
+2025-04-29 20:42:20,730 - INFO - Successfully read the yaml file
+2025-04-29 20:42:20,731 - INFO - Loaded configuration from config.yaml
+2025-04-29 20:42:20,837 - WARNING - From C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\venv\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-04-29 20:42:20,975 - WARNING - From C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\venv\lib\site-packages\keras\src\optimizers\__init__.py:309: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2025-04-29 20:42:20,984 - INFO - Model created succesfully.....
+2025-04-29 20:42:20,996 - ERROR - Error in C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\src\model_training.py , line 72 : Model training failed
+2025-04-29 20:47:34,993 - INFO - Model Training Initialized
+2025-04-29 20:47:35,007 - INFO - Data loaded succesfully for Model Training
+2025-04-29 20:47:35,043 - INFO - Successfully read the yaml file
+2025-04-29 20:47:35,043 - INFO - Loaded configuration from config.yaml
+2025-04-29 20:47:35,144 - WARNING - From C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\venv\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-04-29 20:47:35,247 - WARNING - From C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\venv\lib\site-packages\keras\src\optimizers\__init__.py:309: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2025-04-29 20:47:35,256 - INFO - Model created succesfully.....
+2025-04-29 20:47:35,268 - ERROR - Error in C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\src\model_training.py , line 76 : Model training failed
+2025-04-29 21:13:51,602 - INFO - Model Training Initialized
+2025-04-29 21:13:51,619 - INFO - Data loaded succesfully for Model Training
+2025-04-29 21:13:51,665 - INFO - Successfully read the yaml file
+2025-04-29 21:13:51,665 - INFO - Loaded configuration from config.yaml
+2025-04-29 21:13:51,793 - WARNING - From C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\venv\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-04-29 21:13:51,933 - WARNING - From C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\venv\lib\site-packages\keras\src\optimizers\__init__.py:309: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2025-04-29 21:13:51,943 - INFO - Model created succesfully.....
+2025-04-29 21:13:51,955 - ERROR - Error in C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\src\model_training.py , line 72 : Model training failed
+2025-04-29 21:18:32,374 - INFO - Model Training Initialized
+2025-04-29 21:18:32,384 - INFO - Data loaded succesfully for Model Training
+2025-04-29 21:18:32,427 - INFO - Successfully read the yaml file
+2025-04-29 21:18:32,428 - INFO - Loaded configuration from config.yaml
+2025-04-29 21:18:32,534 - WARNING - From C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\venv\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-04-29 21:18:32,645 - WARNING - From C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\venv\lib\site-packages\keras\src\optimizers\__init__.py:309: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2025-04-29 21:18:32,655 - INFO - Model created succesfully.....
+2025-04-29 21:18:32,667 - ERROR - Error in C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\src\model_training.py , line 70 : Model training failed
+2025-04-29 21:31:32,818 - INFO - DataProcessing Initialized
+2025-04-29 21:31:33,584 - INFO - Data Loaded successfully for data processinh
+2025-04-29 21:31:33,725 - INFO - Filtered users succesfully
+2025-04-29 21:31:34,621 - INFO - Scaling donefor Processing
+2025-04-29 21:31:34,728 - INFO - Encoding done for users and anime
+2025-04-29 21:31:35,152 - ERROR - Error in C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\src\data_processing.py , line 85 : Failed to split data
+2025-04-29 21:33:08,443 - INFO - DataProcessing Initialized
+2025-04-29 21:33:09,187 - INFO - Data Loaded successfully for data processinh
+2025-04-29 21:33:09,304 - INFO - Filtered users succesfully
+2025-04-29 21:33:10,265 - INFO - Scaling donefor Processing
+2025-04-29 21:33:10,427 - INFO - Encoding done for users and anime
+2025-04-29 21:33:11,332 - INFO - Data Splitted succesfully
+2025-04-29 21:33:11,332 - INFO - X_train shape: (2597312, 2), y_train shape: (2597312,)
+2025-04-29 21:33:11,332 - INFO - X_test shape: (649329, 2), y_test shape: (649329,)
+2025-04-29 21:33:11,349 - INFO - user2user_encoded saved succesfully in processed directory
+2025-04-29 21:33:11,362 - INFO - user2user_decoded saved succesfully in processed directory
+2025-04-29 21:33:11,414 - INFO - anime2anime_encoded saved succesfully in processed directory
+2025-04-29 21:33:11,469 - INFO - anime2animedecoded saved succesfully in processed directory
+2025-04-29 21:33:15,352 - INFO - All training, testing data as well as rating_df is saved.....
+2025-04-29 21:33:21,173 - INFO - DF and Synopsis_df saved succesfully
+2025-04-29 21:33:21,175 - INFO - Data Processing Pipeline ran succesfully
+2025-04-29 21:38:03,575 - INFO - Model Training Initialized
+2025-04-29 21:38:03,614 - ERROR - Error in C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\src\model_training.py , line 24 : Failed to load data
+2025-04-29 22:15:10,368 - INFO - DataProcessing Initialized
+2025-04-29 22:15:11,146 - INFO - Data Loaded successfully for data processinh
+2025-04-29 22:15:11,307 - INFO - Filtered users succesfully
+2025-04-29 22:15:12,245 - INFO - Scaling donefor Processing
+2025-04-29 22:15:12,358 - INFO - Encoding done for users and anime
+2025-04-29 22:15:12,852 - INFO - Data Splitted succesfully
+2025-04-29 22:15:12,866 - INFO - user2user_encoded saved succesfully in processed directory
+2025-04-29 22:15:12,880 - INFO - user2user_decoded saved succesfully in processed directory
+2025-04-29 22:15:12,932 - INFO - anime2anime_encoded saved succesfully in processed directory
+2025-04-29 22:15:12,986 - INFO - anime2animedecoded saved succesfully in processed directory
+2025-04-29 22:15:16,809 - INFO - All training, testing data as well as rating_df is saved.....
+2025-04-29 22:15:22,776 - INFO - DF and Synopsis_df saved succesfully
+2025-04-29 22:15:22,778 - INFO - Data Processing Pipeline ran succesfully
+2025-04-29 22:15:40,109 - INFO - Model Training Initialized
+2025-04-29 22:15:40,192 - INFO - Data loaded succesfully for Model Training
+2025-04-29 22:15:40,242 - INFO - Successfully read the yaml file
+2025-04-29 22:15:40,242 - INFO - Loaded configuration from config.yaml
+2025-04-29 22:15:40,351 - WARNING - From C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\venv\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-04-29 22:15:40,505 - WARNING - From C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\venv\lib\site-packages\keras\src\optimizers\__init__.py:309: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2025-04-29 22:15:40,514 - INFO - Model created succesfully.....
+2025-04-29 22:17:05,722 - INFO - Model Training Initialized
+2025-04-29 22:17:05,808 - INFO - Data loaded succesfully for Model Training
+2025-04-29 22:17:05,860 - INFO - Successfully read the yaml file
+2025-04-29 22:17:05,861 - INFO - Loaded configuration from config.yaml
+2025-04-29 22:17:05,976 - WARNING - From C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\venv\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-04-29 22:17:06,107 - WARNING - From C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\venv\lib\site-packages\keras\src\optimizers\__init__.py:309: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2025-04-29 22:17:06,120 - INFO - Model created succesfully.....
+2025-04-29 22:17:06,462 - WARNING - From C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\venv\lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+
+2025-04-29 22:17:06,691 - WARNING - From C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\venv\lib\site-packages\keras\src\engine\base_layer_utils.py:384: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-04-29 22:18:01,941 - INFO - Model training completed ......
+2025-04-29 22:18:01,994 - INFO - Model saved to artifacts/model\model.h5
+2025-04-29 22:18:01,997 - INFO - Extracting weights for user_embedding
+2025-04-29 22:18:02,009 - INFO - Extracting weights for anime_embedding
+2025-04-29 22:18:02,019 - INFO - User and anime weights saved succesfully....

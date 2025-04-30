@@ -1,0 +1,51 @@
+2025-04-30 15:05:08,085 - INFO - Model Training & Comet-ML Initialized
+2025-04-30 15:05:08,263 - INFO - Data loaded succesfully for Model Training
+2025-04-30 15:05:08,332 - INFO - Successfully read the yaml file
+2025-04-30 15:05:08,333 - INFO - Loaded configuration from config.yaml
+2025-04-30 15:05:08,508 - WARNING - From C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\venv\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-04-30 15:05:09,785 - WARNING - From C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\venv\lib\site-packages\keras\src\optimizers\__init__.py:309: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2025-04-30 15:05:09,812 - INFO - Model created succesfully.....
+2025-04-30 15:05:10,394 - WARNING - From C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\venv\lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+
+2025-04-30 15:05:10,706 - WARNING - From C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\venv\lib\site-packages\keras\src\engine\base_layer_utils.py:384: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-04-30 15:06:10,537 - INFO - Model training completed ......
+2025-04-30 15:06:10,602 - INFO - Model saved to artifacts/model\model.h5
+2025-04-30 15:06:10,605 - INFO - Extracting weights for user_embedding
+2025-04-30 15:06:10,613 - INFO - Extracting weights for anime_embedding
+2025-04-30 15:06:10,717 - INFO - User and anime weights saved succesfully....
+2025-04-30 15:24:40,846 - WARNING - From C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\venv\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-04-30 15:24:41,058 - INFO - DataProcessing Initialized
+2025-04-30 15:24:41,892 - INFO - Data Loaded successfully for data processinh
+2025-04-30 15:24:42,176 - INFO - Filtered users succesfully
+2025-04-30 15:24:43,216 - INFO - Scaling donefor Processing
+2025-04-30 15:24:43,333 - INFO - Encoding done for users and anime
+2025-04-30 15:24:43,820 - INFO - Data Splitted succesfully
+2025-04-30 15:24:43,837 - INFO - user2user_encoded saved succesfully in processed directory
+2025-04-30 15:24:43,851 - INFO - user2user_decoded saved succesfully in processed directory
+2025-04-30 15:24:43,904 - INFO - anime2anime_encoded saved succesfully in processed directory
+2025-04-30 15:24:43,958 - INFO - anime2animedecoded saved succesfully in processed directory
+2025-04-30 15:24:47,891 - INFO - All training, testing data as well as rating_df is saved.....
+2025-04-30 15:24:54,160 - INFO - DF and Synopsis_df saved succesfully
+2025-04-30 15:24:54,163 - INFO - Data Processing Pipeline ran succesfully
+2025-04-30 15:25:00,895 - INFO - Model Training & Comet-ML Initialized
+2025-04-30 15:25:01,057 - INFO - Data loaded succesfully for Model Training
+2025-04-30 15:25:01,108 - INFO - Successfully read the yaml file
+2025-04-30 15:25:01,108 - INFO - Loaded configuration from config.yaml
+2025-04-30 15:25:01,176 - WARNING - From C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\venv\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-04-30 15:25:01,292 - WARNING - From C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\venv\lib\site-packages\keras\src\optimizers\__init__.py:309: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2025-04-30 15:25:01,305 - INFO - Model created succesfully.....
+2025-04-30 15:25:01,719 - WARNING - From C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\venv\lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+
+2025-04-30 15:25:01,917 - WARNING - From C:\Users\Dell\Desktop\Projects\Machine Learning\Anime Recommender System\venv\lib\site-packages\keras\src\engine\base_layer_utils.py:384: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-04-30 15:26:02,407 - INFO - Model training completed ......
+2025-04-30 15:26:02,462 - INFO - Model saved to artifacts/model\model.h5
+2025-04-30 15:26:02,465 - INFO - Extracting weights for user_embedding
+2025-04-30 15:26:02,475 - INFO - Extracting weights for anime_embedding
+2025-04-30 15:26:02,532 - INFO - User and anime weights saved succesfully....
