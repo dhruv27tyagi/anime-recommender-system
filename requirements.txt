@@ -9,3 +9,5 @@ scipy
 threadpoolctl
 comet-ml
 dvc
+dvc-gs
+flask
